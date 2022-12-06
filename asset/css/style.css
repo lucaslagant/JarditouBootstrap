@@ -1,0 +1,11 @@
+.bg-yellow {
+    --bs-bg-opacity: 0.5;
+    background-color: rgba(var(--bs-warning-rgb),var(--bs-bg-opacity))!important;
+}
+.bg-grey {
+    --bs-bg-opacity: 0.7;
+    background-color: rgba(var(--bs-secondary-rgb),var(--bs-bg-opacity))!important;
+}
+.w-200 {
+    width: 200px!important;
+}
